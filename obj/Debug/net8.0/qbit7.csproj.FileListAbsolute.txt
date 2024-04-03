@@ -1,0 +1,14 @@
+C:\Users\roma1\source\repos\qbit7\qbit7\bin\Debug\net8.0\qbit7.exe
+C:\Users\roma1\source\repos\qbit7\qbit7\bin\Debug\net8.0\qbit7.deps.json
+C:\Users\roma1\source\repos\qbit7\qbit7\bin\Debug\net8.0\qbit7.runtimeconfig.json
+C:\Users\roma1\source\repos\qbit7\qbit7\bin\Debug\net8.0\qbit7.dll
+C:\Users\roma1\source\repos\qbit7\qbit7\bin\Debug\net8.0\qbit7.pdb
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.AssemblyInfoInputs.cache
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.AssemblyInfo.cs
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.csproj.CoreCompileInputs.cache
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.dll
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\refint\qbit7.dll
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.pdb
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.genruntimeconfig.cache
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\ref\qbit7.dll
