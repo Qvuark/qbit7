@@ -12,3 +12,4 @@ C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\refint\qbit7.dll
 C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.pdb
 C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.genruntimeconfig.cache
 C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\ref\qbit7.dll
+C:\Users\roma1\source\repos\qbit7\qbit7\obj\Debug\net8.0\qbit7.sourcelink.json
