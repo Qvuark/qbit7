@@ -18,8 +18,7 @@ class qbit
                 array[i, j] = int.Parse(temparray[j]);
             }
         }
-        SumOfArray(array);
-        MinAndMax(array);
+        MaxArray(array);
         Console.ReadKey();
     }
     //static void Print2DArray(int[,] array)
@@ -35,32 +34,30 @@ class qbit
     //        }
     //    }
     //}
-    static void SumOfArray(int[,] array)
+    //static void SumOfArray(int[,] array)
+    //{
+    //    int sum = 0;
+    //    for (int i = 0; i < array.GetLength(0); i++)
+    //    {
+    //        for (int j=0;j<array.GetLength(1);j++)
+    //        {
+    //            sum += array[i,j];
+    //        }
+    //    }
+    //    Console.Write(sum);
+    //}
+    static void MaxArray(int[,] array)
     {
-        int sum = 0;
-        for (int i = 0; i < array.GetLength(0); i++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            for (int j = 0; j < array.GetLength(1); j++)
+            int max = array[0, j];
+            for (int i = 0; i < array.GetLength(0); i++)
             {
-                sum += array[i, j];
-            }
-        }
-        Console.Write(sum);
-    }
-    static void MinAndMax(int[,] array)
-    {
-        int min = array[0, 0];
-        int max = array[0, 0];
-        for (int i = 0; i < array.GetLength(0); i++)
-        {
-            for (int j = 0; j < array.GetLength(1); j++)
-            {
-                if (array[i, j] < min)
-                    min = array[i, j];
                 if (array[i, j] > max)
                     max = array[i, j];
+
             }
+            Console.Write(max + " ");
         }
-        Console.Write($" {min} {max}");
     }
 }
