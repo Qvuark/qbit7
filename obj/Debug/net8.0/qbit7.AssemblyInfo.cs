@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("qbit7")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a05ecbad5b2f2eceb122d62970670836f5cb9207")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1741460da611424d15720627f624c6cda8c9b344")]
 [assembly: System.Reflection.AssemblyProductAttribute("qbit7")]
 [assembly: System.Reflection.AssemblyTitleAttribute("qbit7")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
