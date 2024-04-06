@@ -25,11 +25,11 @@ class qbit
     {
         int sumofevenrows = 0;
         List<int> nameofanevenrow = new List<int>(); // Declaration moved to before its usage
-        for (int i = 0; i < array.GetLength(0); i++)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
             int even = 0;
             int noteven = 0;
-            for (int j = 0; j < array.GetLength(1); j++)
+            for (int i = 0; i < array.GetLength(0); i++)
             {
                 if (array[i, j] % 2 == 1 || array[i, j] % 2 == -1)
                     noteven++;
@@ -39,7 +39,7 @@ class qbit
             if (even > noteven)
             {
                 sumofevenrows++;
-                nameofanevenrow.Add(i);
+                nameofanevenrow.Add(j);
             }
         }
         Console.WriteLine(sumofevenrows);
